@@ -41,8 +41,8 @@ class Spritesheet {
       altura,
       x,
       y,
-      largura * 2,
-      altura * 2
+      largura * 3,
+      altura * 3
     );
   }
 }
